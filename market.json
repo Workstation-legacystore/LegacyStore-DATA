@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "name": "Opera Mini 4.5",
-      "package": "com.opera.mini.native",
-      "version": "4.5",
-      "size": "0.3 MB",
+      "name": "Opera Mini 7.6.4",
+      "package": "com.opera.mini.android",
+      "version": "7.6.40234",
+      "size": "1.2 MB",
       "type": "app",
-      "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/opera.apk",
+      "apk_url": "http://raw.githack.com/Workstation-legacystore/LegacyStore-DATA/main/apks/opera7.apk",
       "min_api": 4,
-      "size_mb": 0.3
+      "size_mb": 1.2
     }
   ]
 }
