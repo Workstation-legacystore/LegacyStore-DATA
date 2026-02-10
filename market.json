@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Opera Mini 4.5",
+      "package": "com.opera.mini.native",
+      "version": "4.5",
+      "size": "0.3 MB",
+      "type": "app",
+      "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/opera.apk",
+      "min_api": 4,
+      "size_mb": 0.3
+    }
+  ]
+}
