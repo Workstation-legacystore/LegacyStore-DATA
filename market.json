@@ -7,7 +7,7 @@
       "size": "1.21 MB",
       "size_mb": 1.21,
       "type": "app",
-      "apk_url": "http://cdn.jsdelivr.net/gh/Workstation-legacystore/LegacyStore-DATA@main/apks/opera7.apk",
+      "apk_url": "http://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/opera7.apk",
       "min_api": 3
     }
   ]
