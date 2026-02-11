@@ -1,15 +1,15 @@
 {
   "apps": [
     {
-      "name": "Opera Mini 7.6.4",
-      "package": "com.opera.mini.native",
-      "version": "7.6.40234",
-      "size": "1.21 MB",
-      "size_mb": 1.21,
+      "name": "Resonance Explorer",
+      "package": "com.androidhorizon.resonanceexplorer",
+      "version": "1.0.13.9",
+      "size": "2.88 MB",
+      "size_mb": 2.88,
       "type": "app",
-      "apk_url": "http://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/opera7.apk",
-      "min_api": 3,
-      "description": "Легендарный быстрый браузер с экономией трафика. Работает даже на самом слабом интернете!"
+      "min_api": 10,
+      "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/ResonanceEx.apk",
+      "description": "Моя личная разработка. Версия 1.0.13.9. Лучший файловый менеджер!"
     }
   ]
 }
