@@ -1,15 +1,452 @@
-{
-  "apps": [
+[
     {
       "name": "Resonance Explorer",
       "package": "com.androidhorizon.resonanceexplorer",
       "version": "1.0.13.9",
       "size": "2.88 MB",
-      "size_mb": 2.88,
       "type": "app",
-      "min_api": 10,
       "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/ResonanceEx.apk",
-      "description": "Мощный файловый менеджер для старых Android!"
+      "description": "Мой личный файловый менеджер."
+    },
+    {
+      "name": "Minecraft PE 0.8.1",
+      "package": "com.mojang.minecraftpe",
+      "version": "0.8.1",
+      "size": "10 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/Minecraft-PE-0.8.1/Minecraft%20PE%200.8.1.apk",
+      "description": "Тот самый Майнкрафт."
+    },
+    {
+      "name": "Angry Birds Classic",
+      "package": "com.rovio.angrybirds",
+      "version": "2.0.0",
+      "size": "19 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/angry-birds-2.0.0/Angry_Birds_2.0.0.apk",
+      "description": "Классические злые птицы."
+    },
+    {
+      "name": "Angry Birds Rio",
+      "package": "com.rovio.angrybirdsrio",
+      "version": "1.4.4",
+      "size": "32 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/AngryBirdsRio1.4.4/Angry%20Birds%20Rio%201.4.4.apk",
+      "description": "Птицы в Рио-де-Жанейро."
+    },
+    {
+      "name": "Angry Birds Space",
+      "package": "com.rovio.angrybirdsspace",
+      "version": "1.0.0",
+      "size": "23 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/AngryBirdsSpace1.0.0/Angry_Birds_Space_1.0.0.apk",
+      "description": "Птицы в космосе."
+    },
+    {
+      "name": "Angry Birds Star Wars",
+      "package": "com.rovio.angrybirdsstarwars",
+      "version": "1.0.0",
+      "size": "45 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/AngryBirdsStarWars1.0.0/Angry_Birds_Star_Wars_1.0.0.apk",
+      "description": "Птицы-джедаи."
+    },
+    {
+      "name": "Bad Piggies",
+      "package": "com.rovio.badpiggies",
+      "version": "1.0.0",
+      "size": "34 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/BadPiggies1.0.0/Bad%20Piggies%201.0.0.apk",
+      "description": "Строй машины для свиней."
+    },
+    {
+      "name": "Fruit Ninja",
+      "package": "com.halfbrick.fruitninja",
+      "version": "1.5.4",
+      "size": "18 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/fruit-ninja-1.5.4/Fruit_Ninja_1.5.4.apk",
+      "description": "Режь фрукты!"
+    },
+    {
+      "name": "Cut the Rope",
+      "package": "com.zeptolab.ctr.paid",
+      "version": "1.0.0",
+      "size": "14 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/CutTheRope1.0.0/Cut_the_Rope_1.0.0.apk",
+      "description": "Накорми Ам-Няма."
+    },
+    {
+      "name": "Cut the Rope: Experiments",
+      "package": "com.zeptolab.ctrexperiments",
+      "version": "1.0",
+      "size": "20 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/CutTheRopeExperiments/Cut_the_Rope_Experiments.apk",
+      "description": "Новые опыты с Ам-Нямом."
+    },
+    {
+      "name": "Where's My Water?",
+      "package": "com.disney.WMW",
+      "version": "1.0.0",
+      "size": "38 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/WheresMyWater1.0.0/Where's_My_Water_1.0.0.apk",
+      "description": "Крокодильчик Свомпи."
+    },
+    {
+      "name": "Doodle Jump",
+      "package": "com.lima.doodlejump",
+      "version": "1.6",
+      "size": "5 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/doodle-jump-1.6/Doodle_Jump_1.6.apk",
+      "description": "Прыгай выше всех."
+    },
+    {
+      "name": "Temple Run",
+      "package": "com.imangi.templerun",
+      "version": "1.0.8",
+      "size": "22 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/temple-run-1.0.8/Temple_Run_1.0.8.apk",
+      "description": "Первый легендарный раннер."
+    },
+    {
+      "name": "Temple Run 2",
+      "package": "com.imangi.templerun2",
+      "version": "1.0",
+      "size": "45 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/TempleRun2_201305/Temple%20Run%202.apk",
+      "description": "Продолжение побега."
+    },
+    {
+      "name": "Subway Surfers",
+      "package": "com.kiloo.subwaysurf",
+      "version": "1.0.1",
+      "size": "21 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/subway-surfers-1.0.1/Subway_Surfers_1.0.1.apk",
+      "description": "Бег по поездам."
+    },
+    {
+      "name": "Jetpack Joyride",
+      "package": "com.halfbrick.jetpackjoyride",
+      "version": "1.3",
+      "size": "28 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/jetpack-joyride-1.3/Jetpack_Joyride_1.3.apk",
+      "description": "Безумный джетпак."
+    },
+    {
+      "name": "Hill Climb Racing",
+      "package": "com.fingersoft.hillclimb",
+      "version": "1.14",
+      "size": "14 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/hill-climb-racing-1.14/Hill_Climb_Racing_1.14.apk",
+      "description": "Гонки по ухабам."
+    },
+    {
+      "name": "Dr. Driving",
+      "package": "com.ansangha.drdriving",
+      "version": "1.0",
+      "size": "9 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/DrDrivingOld/Dr.%20Driving.apk",
+      "description": "Симулятор вождения."
+    },
+    {
+      "name": "Pou",
+      "package": "me.pou.app",
+      "version": "1.0.28",
+      "size": "12 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/PouOldVersion/Pou_1.0.28.apk",
+      "description": "Вырасти своего инопланетянина."
+    },
+    {
+      "name": "My Talking Tom",
+      "package": "com.outfit7.mytalkingtomfree",
+      "version": "1.0",
+      "size": "40 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/MyTalkingTom1.0/My%20Talking%20Tom%201.0.apk",
+      "description": "Говорящий кот Том."
+    },
+    {
+      "name": "Vector",
+      "package": "com.nekki.vector",
+      "version": "1.0.0",
+      "size": "48 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/VectorFull1.0.0/Vector%20Full%201.0.0.apk",
+      "description": "Паркур про побег из офиса."
+    },
+    {
+      "name": "Shadow Fight 2",
+      "package": "com.nekki.shadowfight2",
+      "version": "1.5.3",
+      "size": "46 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/ShadowFight2Old/Shadow%20Fight%202%20v1.5.3.apk",
+      "description": "Бой с тенью. Старая версия."
+    },
+    {
+      "name": "Plants vs. Zombies",
+      "package": "com.popcap.pvz",
+      "version": "6.0.0",
+      "size": "70 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/PlantsVsZombiesAndroid/Plants%20Vs%20Zombies.apk",
+      "description": "Зомби против растений."
+    },
+    {
+      "name": "Geometry Dash",
+      "package": "com.robtopx.geometryjump",
+      "version": "1.0",
+      "size": "18 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/GeometryDash1.0/Geometry%20Dash%201.0.apk",
+      "description": "Хардкорный ритм-платформер."
+    },
+    {
+      "name": "Flappy Bird",
+      "package": "com.dotgears.flappybird",
+      "version": "1.3",
+      "size": "1 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/flappy-bird-1.3/Flappy_Bird_1.3.apk",
+      "description": "Легендарная нервотрепка."
+    },
+    {
+      "name": "2048",
+      "package": "com.estoty.game2048",
+      "version": "1.0",
+      "size": "2 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/2048_Android_Old/2048.apk",
+      "description": "Сложи числа."
+    },
+    {
+      "name": "Piano Tiles",
+      "package": "com.umonistudio.tile",
+      "version": "1.0",
+      "size": "6 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/PianoTilesOld/Don't%20Tap%20The%20White%20Tile.apk",
+      "description": "Не коснись белой плитки."
+    },
+    {
+      "name": "Traffic Racer",
+      "package": "com.skgames.trafficracer",
+      "version": "1.7",
+      "size": "15 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/TrafficRacerOld/Traffic%20Racer%201.7.apk",
+      "description": "Гонки в потоке."
+    },
+    {
+      "name": "Zombie Tsunami",
+      "package": "com.mobigame.zombietsunami",
+      "version": "1.0",
+      "size": "30 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/ZombieTsunamiOld/Zombie%20Tsunami.apk",
+      "description": "Толпа зомби сносит всё."
+    },
+    {
+      "name": "Swamp Attack",
+      "package": "com.outfit7.movingeye.swampattack",
+      "version": "1.0",
+      "size": "38 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/SwampAttackOld/Swamp%20Attack.apk",
+      "description": "Защити свое болото."
+    },
+    {
+      "name": "Granny Smith",
+      "package": "com.mediocre.grannysmith",
+      "version": "1.0",
+      "size": "20 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/GrannySmithAndroid/Granny%20Smith.apk",
+      "description": "Бабушка на роликах."
+    },
+    {
+      "name": "Smash Hit",
+      "package": "com.mediocre.smashhit",
+      "version": "1.0",
+      "size": "39 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/SmashHitOld/Smash%20Hit.apk",
+      "description": "Разбивай стекла шарами."
+    },
+    {
+      "name": "Lep's World",
+      "package": "at.nerbrothers.superjump",
+      "version": "1.0",
+      "size": "10 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/LepsWorldOld/Lep's%20World.apk",
+      "description": "Клон Марио про лепрекона."
+    },
+    {
+      "name": "Farming Simulator 14",
+      "package": "com.giantssoftware.fs14",
+      "version": "1.0",
+      "size": "45 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/FS14_Android/Farming%20Simulator%2014.apk",
+      "description": "Ферма в кармане."
+    },
+    {
+      "name": "Terraria",
+      "package": "com.and.games505.TerrariaPaid",
+      "version": "1.2",
+      "size": "49 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/Terraria1.2Android/Terraria_1.2.apk",
+      "description": "2D песочница."
+    },
+    {
+      "name": "Goat Simulator",
+      "package": "com.coffeestainstudios.goatsimulator",
+      "version": "1.0",
+      "size": "90 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/GoatSimulatorAndroid/Goat%20Simulator.apk",
+      "description": "Безумный козел."
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "package": "com.scottgames.fnaf",
+      "version": "1.0",
+      "size": "40 MB",
+      "type": "game",
+      "apk_url": "https://archive.org/download/FiveNightsAtFreddysAndroid/Five%20Nights%20at%20Freddy's.apk",
+      "description": "Хоррор с аниматрониками."
+    },
+    {
+      "name": "ES File Explorer",
+      "package": "com.estrongs.android.pop",
+      "version": "1.6",
+      "size": "4 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/ESFileExplorerOld/ES%20File%20Explorer%201.6.apk",
+      "description": "Лучший проводник."
+    },
+    {
+      "name": "Opera Mini",
+      "package": "com.opera.mini.android",
+      "version": "7.6",
+      "size": "1.2 MB",
+      "type": "lite",
+      "apk_url": "https://archive.org/download/Android_2.3_Apps_Archive/Opera%20Mini_7.6.4.apk",
+      "description": "Экономит трафик."
+    },
+    {
+      "name": "UC Browser",
+      "package": "com.UCMobile.intl",
+      "version": "9.0",
+      "size": "10 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/UCBrowserOld/UC%20Browser%209.0.apk",
+      "description": "Браузер с загрузчиком."
+    },
+    {
+      "name": "MX Player",
+      "package": "com.mxtech.videoplayer.ad",
+      "version": "1.7",
+      "size": "10 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/Android_2.3_Apps_Archive/MX%20Player_1.7.40.apk",
+      "description": "Всеядный плеер."
+    },
+    {
+      "name": "QuickPic",
+      "package": "com.alensw.PicFolder",
+      "version": "4.5",
+      "size": "2.1 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/Android_2.3_Apps_Archive/QuickPic_4.5.2.apk",
+      "description": "Быстрая галерея."
+    },
+    {
+      "name": "Titanium Backup",
+      "package": "com.keramidas.TitaniumBackup",
+      "version": "6.0",
+      "size": "6 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/TitaniumBackupOld/Titanium%20Backup.apk",
+      "description": "Для бэкапов (нужен Root)."
+    },
+    {
+      "name": "Root Explorer",
+      "package": "com.speedsoftware.rootexplorer",
+      "version": "3.0",
+      "size": "2 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/RootExplorerOld/Root%20Explorer.apk",
+      "description": "Доступ к системе."
+    },
+    {
+      "name": "TubeMate",
+      "package": "devian.tubemate.home",
+      "version": "2.2.5",
+      "size": "4 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/TubeMateOld/TubeMate%202.2.5.apk",
+      "description": "Скачать видео с YouTube."
+    },
+    {
+      "name": "ZArchiver",
+      "package": "ru.zdevs.zarchiver",
+      "version": "0.8",
+      "size": "3 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/ZArchiverOld/ZArchiver.apk",
+      "description": "Архиватор."
+    },
+    {
+      "name": "Clean Master",
+      "package": "com.cleanmaster.mguard",
+      "version": "5.0",
+      "size": "15 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/CleanMasterOld/Clean%20Master.apk",
+      "description": "Очистка мусора."
+    },
+    {
+      "name": "Shazam",
+      "package": "com.shazam.android",
+      "version": "4.0",
+      "size": "8 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/ShazamOld/Shazam.apk",
+      "description": "Поиск музыки."
+    },
+    {
+      "name": "VK Lite (Old)",
+      "package": "com.vk.lite",
+      "version": "1.0",
+      "size": "0.9 MB",
+      "type": "lite",
+      "apk_url": "https://archive.org/download/vklite1.0/vklite.apk",
+      "description": "ВК для слабых телефонов."
+    },
+    {
+      "name": "Winamp",
+      "package": "com.nullsoft.winamp",
+      "version": "1.4",
+      "size": "6 MB",
+      "type": "app",
+      "apk_url": "https://archive.org/download/Android_2.3_Apps_Archive/Winamp_1.4.15.apk",
+      "description": "Тот самый плеер с лам."
     }
-  ]
-}
+]
