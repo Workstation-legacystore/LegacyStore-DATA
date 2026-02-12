@@ -3,10 +3,10 @@
       "name": "Resonance Explorer",
       "package": "com.androidhorizon.resonanceexplorer",
       "version": "1.0.13.9",
-      "size": "2.88 MB",
+      "size": "0.2 MB",
       "type": "app",
-      "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/ResonanceEx.apk",
-      "description": "Мой личный файловый менеджер."
+      "apk_url": "https://raw.githubusercontent.com/Workstation-legacystore/LegacyStore-DATA/main/apks/ResonanceExplorer.apk",
+      "description": "файловый менеджер."
     },
     {
       "name": "Minecraft PE 0.8.1",
